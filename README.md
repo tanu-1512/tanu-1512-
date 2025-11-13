@@ -1,4 +1,3 @@
-# tanu-1512-
 TANUSREE BYRAM — Machine Learning & Software Engineer
 
 🔥 MS in Computer Science | ML Engineer | Data Systems | Full-Stack | Cloud
